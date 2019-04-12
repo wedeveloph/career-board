@@ -1,10 +1,9 @@
 # career-board
 Jobs and opportunities surrounding technology and innovation. Now sharing for Summer 2019!
 
-# Hewoo..
-I am testing the editor 
+# Philippines
 
-Summer Career Opportunities in the Philippines
+_To add opportunities, please make a PR with the additions and request for a merge. You may also reach us at hello@developh.org!_
 
 ## Currently Open Applications
 | Name | Location | Roles | Notes  |
