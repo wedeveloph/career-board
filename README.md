@@ -14,3 +14,7 @@ _To add opportunities, please make a PR with the additions and request for a mer
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | 
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 gasgasdga
+
+## Other Tips
+* Just reach out! Introduce yourself, be humble, and talk about why you're a good fit for a company and what you can offer -- even if you don't fit their requirements. Showing dedication, passion, and genuine interest will get you far. 
+* Join groups like [Startup PH: Jobs](https://www.facebook.com/groups/277534272382470/) and go to events to look for new, hiring groups.
