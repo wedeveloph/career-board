@@ -9,8 +9,8 @@ _To add opportunities, please make a PR with the additions and request for a mer
 | Name | Location | Roles | Notes  |
 |---|---|---|---|
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
-| [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | 
-| [dasdg](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | 
+| [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA |  | 
+| [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | 
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 gasgasdga
