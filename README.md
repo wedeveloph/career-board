@@ -12,8 +12,8 @@ _To add opportunities, please make a PR with the additions and request for a mer
 | [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 | [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
-| [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
-gasgasdga
+| [Zalora](https://jobs.zalora.com/apply/WoxdO4y7RW/Business-Development-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Taguig | Business Development | Apply at link |
+
 
 ## Other Tips
 * Just reach out! Introduce yourself, be humble, and talk about why you're a good fit for a company and what you can offer -- even if you don't fit their requirements. Showing dedication, passion, and genuine interest will get you far. 
