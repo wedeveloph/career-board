@@ -13,6 +13,7 @@ _To add opportunities, please make a PR with the additions and request for a mer
 | [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
 | [Zalora](https://jobs.zalora.com/apply/WoxdO4y7RW/Business-Development-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Taguig | Business Development | Apply at link |
+| [digital.PH (DICT Development Bureau) ](https://www.facebook.com/DICTdigitalph/photos/a.1475711512688787/2298086347117962/?type=3&theater)  | Quezon City | Communications, Adveritisng, Journalism, Multimedia Arts, etc. | Send CV to  juvy.manlapaz@dict.gov.ph |
 
 
 ## Other Tips
