@@ -8,6 +8,7 @@ _To add opportunities, please make a PR with the additions and request for a mer
 ## Applications
 | Name | Location | Roles | Notes  |
 |---|---|---|---|
+| [Hydra Design Group) ](https://www.facebook.com/hydradesigngroup/posts/2077851525848868)  | Makati City | Six-week program on collaboration and an intersectional approach to creative thinking. Working with co-interns on non-client projects combining disciplines. | Email CV and portfolio to internships@heyhydra.com, due May 6. Internship on June 18 to July 26, four days a week.|
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
 | [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 | [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
