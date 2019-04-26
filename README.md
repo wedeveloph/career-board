@@ -1,9 +1,4 @@
-# career-board
-Jobs and opportunities surrounding technology and innovation. Now sharing for Summer 2019!
-
-# Philippines
-
-_To add opportunities, please make a PR with the additions and request for a merge. You may also reach us at hello@developh.org!_
+_To add openings and other opportunities, please make a PR with the additions and request for a merge. You may also reach us at hello@developh.org!_ For high school, college students, and the youth interested in working in development, technology, design, marketing, or entrepreneurship-adjacent jobs -- here's our career board for Summer 2019.
 
 ## Applications
 | Name | Location | Roles | Notes  |
@@ -24,6 +19,14 @@ _To add opportunities, please make a PR with the additions and request for a mer
 | [Monday Off](https://www.instagram.com/p/BwEKzqfFy0-/?utm_source=ig_share_sheet&igshid=d8iw1gbrb6tg) | Manila | 4-week internship program aimed at honing young creatives in the following disciplines: graphic design, copywriting, and production styling. This is also an opportunity for possible part-time, home-based positions in the company. A monetary allowance will be provided.| Send your CV to contact.mondayoff@gmail.com |
 
 
+
 ## Other Tips
 * Just reach out! Introduce yourself, be humble, and talk about why you're a good fit for a company and what you can offer -- even if you don't fit their requirements. Showing dedication, passion, and genuine interest will get you far. 
 * Join groups like [Startup PH: Jobs](https://www.facebook.com/groups/277534272382470/) and go to events to look for new, hiring groups.
+
+## Developh also offers...
+✨ Resume/CV writing help and reviews
+✨ Connections to past interns and current workers at these companies
+✨ Support and advice before and during your internship, such as on transportation, lodging, navigating the workplace, etc.
+
+Just email or message us!
