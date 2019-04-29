@@ -25,6 +25,7 @@ _To add openings and other opportunities, please make a PR with the additions an
   
 ## Closed
 
+| Name | Location | Roles | Notes  |
 | [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 
 
