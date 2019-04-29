@@ -14,7 +14,6 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [e27 Super Intern](https://e27.co/job/e27/e27-super-intern-class-of-2019)  | Remote | For 2019, we are opening up to 7 positions for University & Polytechnic students who are keen to try out working in the technology media, events & startup space. These positions are spread across our Programmes, Marketing, Partnership, Sales, and Product teams. | Apply at link, on e27 website|
 | [Hydra Design Group](https://www.facebook.com/hydradesigngroup/posts/2077851525848868)  | Makati City | Six-week program on collaboration and an intersectional approach to creative thinking. Working with co-interns on non-client projects combining disciplines. | Email CV and portfolio to internships@heyhydra.com, due May 6. Internship on June 18 to July 26, four days a week.|
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
-| [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 | [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
 | [Zalora](https://jobs.zalora.com/apply/WoxdO4y7RW/Business-Development-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Taguig | Business Development | Apply at link |
@@ -23,6 +22,10 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [On-Off Group](https://www.facebook.com/OnOffGroup/photos/a.655100901191413/2504573629577455/?type=3&theater) | Makati City | Looking for UX Interns who are good in written and verbal communication, and are interested in doing research | Email CV and video (about yourself and why you'd be a good fit) to kc@onoffgroup.com. Internship is flexible (2 months at minimum) and paid (only for transportation + meal allowance). |
 | [Monday Off](https://www.instagram.com/p/BwEKzqfFy0-/?utm_source=ig_share_sheet&igshid=d8iw1gbrb6tg) | Manila | 4-week internship program aimed at honing young creatives in the following disciplines: graphic design, copywriting, and production styling. This is also an opportunity for possible part-time, home-based positions in the company. A monetary allowance will be provided.| Send your CV to contact.mondayoff@gmail.com |
 | [BloomSolutions](https://www.bloom.solutions/) | Remote / Salcedo Village | Cutting-edge, blockchain startup that helps SMEs and financial institutions in SE Asia remit money. RoR & Stellar tech stack. | Send your resume and cover letter to hello@bloom.solutions |
+  
+## Closed
+
+| [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 
 
 ## Other Tips
