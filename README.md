@@ -5,7 +5,7 @@ _To add openings and other opportunities, please make a PR with the additions an
 ## Applications
 | Name | Location | Roles | Notes  |
 |---|---|---|---|
-| [OffCrowd](https://www.facebook.com/offcrowd/posts/1105715449808397) | Remote | We're looking for people looking to understand the industry of sustainable development and solutions, and passionate about using communication arts to create a change. | internships@vigi.ph |
+| [OffCrowd](https://www.facebook.com/offcrowd/posts/1105715449808397) | Remote | OffCrowd is looking for a new batch of interns in Editorial and Design. We're looking for people looking to understand the industry of sustainable development and solutions, and passionate about using communication arts to create a change. | internships@vigi.ph |
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
 | [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | Send your CV to info@offcrowd.com |
