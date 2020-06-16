@@ -16,12 +16,7 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
 | [Serious Studio](https://www.facebook.com/seriousstudio/photos/a.633072900080528/2087068611347609/?type=3&theater)  | Pasig | Branding and design | Due May 19, fun@serious-studio.com |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
-| [Zalora](https://jobs.zalora.com/apply/WoxdO4y7RW/Business-Development-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Taguig | Business Development | Apply at link |
-| [digital.PH (DICT Development Bureau) ](https://www.facebook.com/DICTdigitalph/photos/a.1475711512688787/2298086347117962/?type=3&theater)  | Quezon City | Communications, Advertising, Journalism, Multimedia Arts, etc. | Send CV to juvy.manlapaz@dict.gov.ph |
-| [On-Off Group](https://www.facebook.com/OnOffGroup/photos/a.655100901191413/2504573629577455/?type=3&theater) | Makati City | Looking for UX Interns who are good in written and verbal communication, and are interested in doing research | Email CV and video (about yourself and why you'd be a good fit) to kc@onoffgroup.com. Internship is flexible (2 months at minimum) and paid (only for transportation + meal allowance). |
-| [Monday Off](https://www.instagram.com/mondayoffph/) | Manila | 4-week internship program aimed at honing young creatives in the following disciplines: graphic design, copywriting, and production styling. This is also an opportunity for possible part-time, home-based positions in the company. A monetary allowance will be provided.| Send your CV to contact.mondayoff@gmail.com |
 
-  
 ## Closed
 
 | Name | Location | Roles | Notes  |
