@@ -14,9 +14,7 @@ _To add openings and other opportunities, please make a PR with the additions an
 
 | Name | Location | Roles | Notes  |
 |---|---|---|---|
-| [World Youth Alliance Asia-Pacific (Batch 2)](https://www.wya.net/event/apinternship/)  | Quezon City | Program Development Intern or Deisgn Intern, required to sign up for a WYA charter prior to application. See link for detailed information on internship program; duration from May 29 to September 6, 2019 or June to September 2019. Involves project management, training, and network building. | Deadline April 26 |
-| [Rappler Internships](https://www.rappler.com/move-ph/263-rappler-internship-program-careers)  | Pasig City | Internship period of June to August 2019 / Rappler’s internship program is anchored in the belief that the best way to hone the craft of story-telling, journalism, marketing or any skill is through first-hand experience. They will be given the chance to maximize the lessons they learned in the classroom by applying them to real-life situations. We put a premium on interns who are able to work smart and independently, but are willing to receive guidance and mentorship along the way. | Applications open February 17-28, 2020 |
-| [BloomSolutions](https://www.bloom.solutions/) | Remote / Salcedo Village | Cutting-edge, blockchain startup that helps SMEs and financial institutions in SE Asia remit money. RoR & Stellar tech stack. | Send your resume and cover letter to hello@bloom.solutions |
+| NA | NA | NA | NA |
 
 ## Other Tips
 * Just reach out! Introduce yourself, be humble, and talk about why you're a good fit for a company and what you can offer -- even if you don't fit their requirements. Showing dedication, passion, and genuine interest will get you far. 
