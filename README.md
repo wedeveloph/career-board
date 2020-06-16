@@ -19,9 +19,8 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [Zalora](https://jobs.zalora.com/apply/WoxdO4y7RW/Business-Development-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Taguig | Business Development | Apply at link |
 | [digital.PH (DICT Development Bureau) ](https://www.facebook.com/DICTdigitalph/photos/a.1475711512688787/2298086347117962/?type=3&theater)  | Quezon City | Communications, Advertising, Journalism, Multimedia Arts, etc. | Send CV to juvy.manlapaz@dict.gov.ph |
 | [On-Off Group](https://www.facebook.com/OnOffGroup/photos/a.655100901191413/2504573629577455/?type=3&theater) | Makati City | Looking for UX Interns who are good in written and verbal communication, and are interested in doing research | Email CV and video (about yourself and why you'd be a good fit) to kc@onoffgroup.com. Internship is flexible (2 months at minimum) and paid (only for transportation + meal allowance). |
-| [Monday Off](https://www.instagram.com/p/BwEKzqfFy0-/?utm_source=ig_share_sheet&igshid=d8iw1gbrb6tg) | Manila | 4-week internship program aimed at honing young creatives in the following disciplines: graphic design, copywriting, and production styling. This is also an opportunity for possible part-time, home-based positions in the company. A monetary allowance will be provided.| Send your CV to contact.mondayoff@gmail.com |
-| [BloomSolutions](https://www.bloom.solutions/) | Remote / Salcedo Village | Cutting-edge, blockchain startup that helps SMEs and financial institutions in SE Asia remit money. RoR & Stellar tech stack. | Send your resume and cover letter to hello@bloom.solutions |
-| [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | internships@vigi.ph |
+| [Monday Off](https://www.instagram.com/mondayoffph/) | Manila | 4-week internship program aimed at honing young creatives in the following disciplines: graphic design, copywriting, and production styling. This is also an opportunity for possible part-time, home-based positions in the company. A monetary allowance will be provided.| Send your CV to contact.mondayoff@gmail.com |
+
   
 ## Closed
 
@@ -30,7 +29,8 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [LaunchGarage](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | Quezon City | Operations, multimedia, content, events | lance@launchgarage.com | 
 | [Hydra Design Group](https://www.facebook.com/hydradesigngroup/posts/2077851525848868)  | Makati City | Six-week program on collaboration and an intersectional approach to creative thinking. Working with co-interns on non-client projects combining disciplines. | Email CV and portfolio to internships@heyhydra.com, due May 6. Internship on June 18 to July 26, four days a week.|
 | [And A Half Studio](https://www.facebook.com/andahalfph/posts/1214462498718048?__tn__=-R) | Mandaluyong | Six-week summer internship program for designers, copywriters, and creative thinkers | Email cover letter, CV, and/or your portfolio to collaborate@and-a-half.ph, due May 8, 11:59 AM. Internship is from June 10 to July 19, 3 times a week for six weeks; hours are from 11:00 AM to 5:00 PM. |
-
+| [BloomSolutions](https://www.bloom.solutions/) | Remote / Salcedo Village | Cutting-edge, blockchain startup that helps SMEs and financial institutions in SE Asia remit money. RoR & Stellar tech stack. | Send your resume and cover letter to hello@bloom.solutions |
+| [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | internships@vigi.ph |
 
 ## Other Tips
 * Just reach out! Introduce yourself, be humble, and talk about why you're a good fit for a company and what you can offer -- even if you don't fit their requirements. Showing dedication, passion, and genuine interest will get you far. 
