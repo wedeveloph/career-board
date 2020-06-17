@@ -1,4 +1,4 @@
-_To add openings and other opportunities, please make a PR with the additions and request for a merge. You may also reach us at hello@developh.org!_ For high school, college students, and the youth interested in working in development, technology, design, marketing, or entrepreneurship-adjacent jobs -- here's our career board for Summer 2019.
+_To add openings and other opportunities, please make a PR with the additions and request for a merge. You may also reach us at hello@developh.org!_ For high school, college students, and the youth interested in working in development, technology, design, marketing, or entrepreneurship-adjacent jobs -- here's our career board for Summer 2020.
 
 [Read the Technology.ph article for tips!](https://technology.ph/career/get-those-summer-19-internships/)
 
