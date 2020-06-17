@@ -7,10 +7,10 @@ _To add openings and other opportunities, please make a PR with the additions an
 |---|---|---|---|
 | [Hyperlokal](https://www.facebook.com/Hyperlokalco/posts/126156889110145) | Remote | We're looking for interns and volunteers for the nation’s first platform for community economic collaboration!| Application form at bit.ly/2YqtDyM |
 | [Makesense](https://www.facebook.com/makesensePH/posts/1170732196622360) | Remote | Calling all artists, webinar organisers, and program facilitators! Apply for a meaningful program to help you build real life experience while joining a global community of citizens building a more resilient and sustainable tomorrow. | philippines.makesense.org/mks-microinternships |
-| [OffCrowd](https://www.facebook.com/offcrowd/posts/1105715449808397) | Remote | OffCrowd is looking for a new batch of interns in Editorial and Design. We're looking for people looking to understand the industry of sustainable development and solutions, and passionate about using communication arts to create a change. | internships@vigi.ph |
+| [OffCrowd](https://www.facebook.com/offcrowd/posts/1105715449808397) | Remote | OffCrowd is looking for a new batch of interns in Editorial and Design. We're looking for people looking to understand the industry of sustainable development and solutions, and passionate about using communication arts to create a change. | Send your CV to info@offcrowd.com |
 | [IdeaSpace](http://www.ideaspacefoundation.org/internships-at-ideaspace-foundation-inc.html)  | Makati City | Business, Media, Accounting, Marketing/Advocacy | hello@ideaspacefoundation.org |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
-| [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | Send your CV to info@offcrowd.com |
+| [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | internships@vigi.ph |
 
 ## Closed/Unavailable
 
