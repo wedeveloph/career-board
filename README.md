@@ -11,6 +11,7 @@ _To add openings and other opportunities, please make a PR with the additions an
 | [Tagani](https://docs.google.com/forms/d/e/1FAIpQLSf0BkO9skRvNqoZwPZE_Anzh9zgMC4avWizT6DYCa0Qs1ht_Q/viewform?fbclid=IwAR0-Zgy5fd8urltIL_RZchPrLh0xdh1h9Yi5vrsrXOXHvVoP866sl7Qxioo)  | Remote | Different roles available | AgriTech startup, hello@tagani.ph |
 | [Humble Sustainability](https://www.facebook.com/groups/startupphilippinesinternships/permalink/3141267349317410/)  | Remote | Graphic Designer, Industrial Engineer, Industrial Designer, Computer Scientist | Sustainability startup. We are in search of driven and enthusiastic interns (volunteers are welcome too) who believe in a better tomorrow!, Reach out and send your CV along with your cover letter to grow@humblesustainability.com and share why you would like to be part of our team. |
 | [Ayannah](https://www.ayannah.com/internship-positions)  | Remote | Different roles available | FinTech startup, careers@ayannah.com |
+| [Investagram](https://www.investagrams.com/Careers/UIUXDesignerIntern/)  | Remote | UX/UI Designer Intern | The UX Design Intern shall help the team create the best experience for all our users.Send your resume and portfolio to careers@investagrams.com |
 | [Edukasyon.ph](https://edukasyon.ph)  | Taguig | Different roles available | Edtech startup, careers@edukasyon.ph |
 | [Vigi Design Studio](https://www.vigi.ph/) | Onsite (Quezon City) / Remote | Unpaid internship, available anytime of the year. Caters to various disciplines like design, development, and finance. | internships@vigi.ph |
 
